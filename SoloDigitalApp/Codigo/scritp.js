@@ -14,10 +14,6 @@ function selecionarUnidade(unidade) {
     unidadeSelecionada = unidade;
 }
 
-function toggleMenu() {
-    alert('Menu clicado! Aqui você pode implementar um menu lateral ou dropdown.');
-}
-
 function Calcular() {
     const condutividadeBruta = parseFloat(document.getElementById('condutividade').value); // Valor B
     const temperatura = parseFloat(document.getElementById('temperatura').value); // Valor T
