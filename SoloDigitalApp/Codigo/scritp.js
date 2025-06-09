@@ -53,7 +53,7 @@ function Calcular() {
 
         // 3. Calcular o resultado final (C).
         // Fórmula: C = EP * B / E - 2
-        const C = EP * B / epsilon - 2;
+        const C = EP * B / (epsilon - 2);
 
         // --- FIM DA LÓGICA DE CÁLCULO ---
 
