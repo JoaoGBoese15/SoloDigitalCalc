@@ -4,6 +4,8 @@
 
 **Uma calculadora web para converter a condutividade elétrica (EC) medida em campo para o valor real disponível para as plantas.**
 
+link: https://solodigitalcalc.netlify.app/
+
 ---
 
 ## 📖 Sobre o Projeto
